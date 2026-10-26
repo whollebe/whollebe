@@ -1,3 +1,6 @@
+https://career-fair.42lausanne.ch/dashboard
+
+
 # Documentation Django — ORM et backend
 
 > **Rôle de Django dans le projet** : Django fait **tout le backend** : il est à la fois
